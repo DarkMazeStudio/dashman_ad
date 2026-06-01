@@ -1,2 +1,1 @@
-<img width="1536" height="1024" alt="بنر جذاب تبلیغاتی با" src="https://github.com/user-attachments/assets/350b9d25-4754-498b-a3cb-9f054902d5d2" />
-# dashman_ad
+<img width="1920" height="1080" alt="بنر تبلیغاتی حرفه‌ای" src="https://github.com/user-attachments/assets/a510dab7-e3de-4eac-9e1a-56a97e9c231e" />
