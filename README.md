@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="بنر تبلیغاتی حرفه‌ای" src="https://github.com/user-attachments/assets/a510dab7-e3de-4eac-9e1a-56a97e9c231e" />
+<img width="1536" height="1024" alt="بنر جذاب تبلیغاتی با" src="https://github.com/user-attachments/assets/729395da-7f95-4ccd-a8fb-d8ebdb70aa44" />
